@@ -1,11 +1,9 @@
-<link href = "CSS/readme.css">
-
 <!-- The head table: gifs + banner -->
 <table align = "center">
    <tr>
       <!-- Spaces gifs-->
       <div align = "center">
-         <a href = "https://github.com/polina-vaganova/polina-vaganova/main/Materials/Space.gif">
+         <a href = "https://github.com/polina-vaganova/polina-vaganova/blob/main/Materials/Space.gif">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
