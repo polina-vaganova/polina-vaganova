@@ -52,17 +52,7 @@
       </div>
    </tr>
    
-   <!-- Text: default user from Russia -->
-   <tr>
-      <a href = "https://www.codewars.com/users/erdogan-deniz">
-         <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
-      </a>
-      <div align = "center" >
-         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=435&lines=%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%B5%F0%9F%85%B0%F0%9F%86%84%F0%9F%85%BB%F0%9F%86%83+%F0%9F%86%84%F0%9F%86%82%F0%9F%85%B4%F0%9F%86%81+%F0%9F%85%B5%F0%9F%86%81%F0%9F%85%BE%F0%9F%85%BC+%F0%9F%86%81%F0%9F%86%84%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B8%F0%9F%85%B0" />
-      </div>
-   </tr>
-   
-   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz" />
+   <img src = "https://komarev.com/ghpvc/?username=polina-vaganova" />
 </table>
 
 <!-- All stats table-->
@@ -72,12 +62,12 @@
    <tr>
       <td>
          <div align = "right">
-            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=polina-vaganova&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
          </div>
       </td>
       <td>
          <div align = "left">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=erdogan-deniz&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=polina-vaganova&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
          </div>
       </td>
    </tr>
@@ -86,13 +76,13 @@
    <tr>
       <td>
          <div align = "right">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=ru&hide_title=true">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=polina-vaganova&layout=compact&hide_border=true&locale=ru&hide_title=true">
          </div>
       </td>
       <td>
          <div align = "left">
             <a href = "https://github.com/erdogan-deniz/School21">
-               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=erdogan-deniz&repo=School21">
+               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=polina-vaganova&repo=School21">
             </a>
          </div>
       </td>
@@ -101,27 +91,27 @@
    <!-- Trophies -->
    <tr>
       <div align = "center">
-         <img src = "https://github-profile-trophy.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+         <img src = "https://github-profile-trophy.vercel.app/?username=polina-vaganova&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
       </div>
    </tr>
    
    <!-- Activity graph -->
    <tr>
       <div align = "center">
-         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
+         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=polina-vaganova&theme=tokyo-night">
       </div>
    </tr>
 
    <!-- Activity graph -->
    <tr>
       <div align = "center">
-         <img src = "https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark">
+         <img src = "https://leetcode-stats-six.vercel.app/api?username=polina-vaganova&theme=dark">
       </div>
    </tr>
 </table>
 
 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
-* 22 years old;
+* 20 years old;
 * From Russia;
 * Data Scientist;
 * Student of University;
@@ -155,7 +145,7 @@
    <tr>
       <!-- Spaces gifs-->
  <div align = "center">
-         <a href = "https://github.com/erdogan-deniz/erdogan-deniz/blob/main/Materials/Space.gif">
+         <a href = "https://github.com/polina-vaganova/polina-vaganova/blob/main/Materials/Space.gif">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
