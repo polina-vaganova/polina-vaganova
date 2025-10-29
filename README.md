@@ -109,7 +109,7 @@
 </table>
 
 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
-* 20 years old;
+* 21 years old;
 * From Russia;
 * Data Scientist;
 * Student of University;
