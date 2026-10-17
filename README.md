@@ -50,81 +50,38 @@
       </div>
    </tr>
    
-   <img src = "https://komarev.com/ghpvc/?username=polina-vaganova" />
 </table>
 
-<!-- All stats table-->
-<table height = "450px" align = "center">
-   
-   <!-- Streak and main launguge -->
-   <tr>
-      <td>
-         <div align = "right">
-            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=polina-vaganova&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
-         </div>
-      </td>
-      <td>
-         <div align = "left">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=polina-vaganova&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
-         </div>
-      </td>
-   </tr>
-   
-   <!-- Launguages, school 21 -->
-   <tr>
-      <td>
-         <div align = "right">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=polina-vaganova&layout=compact&hide_border=true&locale=ru&hide_title=true">
-         </div>
-      </td>
-      <td>
-         <div align = "left">
-            <a href = "https://github.com/erdogan-deniz/School21">
-               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=polina-vaganova&repo=School21">
-            </a>
-         </div>
-      </td>
-   </tr>
-   
-   <!-- Trophies -->
-   <tr>
-      <div align = "center">
-         <img src = "https://github-profile-trophy.vercel.app/?username=polina-vaganova&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
-      </div>
-   </tr>
-   
-   <!-- Activity graph -->
-   <tr>
-      <div align = "center">
-         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=polina-vaganova&theme=tokyo-night">
-      </div>
-   </tr>
+## About me
 
-   <!-- Activity graph -->
-   <tr>
-      <div align = "center">
-         <img src = "https://leetcode-stats-six.vercel.app/api?username=polina-vaganova&theme=dark">
-      </div>
-   </tr>
-</table>
+ML Engineer working with LLMs, computer vision and robotics.
 
-𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
-* 21 years old;
-* From Russia;
-* Data Scientist;
-* Student of University;
-* Student of School 21.
+- **LLM / NLP:** evaluation, benchmarks, LLM-as-a-judge, R&D of LLM agents
+- **Computer vision & robotics:** object detection, 3D pose estimation, ROS 2 manipulation
+- **Education:** B.Sc. in Robotics (MSTU "STANKIN"), School 21 — Machine Learning
 
-🍋 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
+## Projects
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+| Project | Description |
+|---|---|
+| [vision-guided-grasping](https://github.com/polina-vaganova/vision-guided-grasping) | Autonomous pick & place with UR5: YOLOv8-OBB, 3D pose estimation without a depth sensor, MoveIt 2, Gazebo |
+| [task-variants-generator](https://github.com/polina-vaganova/task-variants-generator) | LLM service that generates variants of school assignments: GigaChat, FastAPI, PostgreSQL + pgvector · hackathon |
+| [event-invite-generator](https://github.com/polina-vaganova/event-invite-generator) | AI-generated invitation cards for events: LLM API, Flask, PostgreSQL · hackathon |
+
+## Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <table align = "center">
    <tr>
