@@ -46,7 +46,7 @@
    <!-- Banner: erdogan-deniz -->
    <tr>
       <div align = "center">   
-         <image src = "/Materials/title.png"> </image> 
+         <image src = "/Materials/title.jpg"> </image> 
       </div>
    </tr>
    
@@ -86,7 +86,7 @@ ML Engineer working with LLMs, computer vision and robotics.
 <table align = "center">
    <tr>
       <td width = "30%">
-         <img src = "/Materials/face.gif" height = "140"/>
+         <img src = "/Materials/face.webp" height = "140"/>
       </td>
       <td>
          <a href = "https://www.youtube.com/watch?v=Lt3IOdDE5iA">
