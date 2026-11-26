@@ -4,6 +4,13 @@
   Code: <a href="https://github.com/polina-vaganova/vision-guided-grasping">vision-guided-grasping</a></sub>
 </p>
 
+<p align="center">
+  <img src="Materials/arduboy_maze.png" width="55%"><br>
+  <sub><b>C++ on bare metal</b> — a maze game for the Arduboy running on an ATmega32u4:
+  14.8 KB of flash, 1.8 KB of RAM, levels stored in <code>PROGMEM</code>.
+  Code: <a href="https://github.com/polina-vaganova/arduboy-puzzle-maze">arduboy-puzzle-maze</a></sub>
+</p>
+
 ## About me
 
 ML Engineer working with LLMs, computer vision and robotics.
